@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vijay Kumar Reddy</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate web developer from India.</h3>
 
 - 🔭 I’m currently working on **Native Movie App**
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://talakolavijay.vercel.app](https://talakolavijay.vercel.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://talakolavijay.vercel.app)
 
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **talakolavijaykumar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/1/folders/1VLbE3u0gC3x66ClPWCUmcK75DuhTAyKx](https://drive.google.com/drive/u/1/folders/1VLbE3u0gC3x66ClPWCUmcK75DuhTAyKx)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/1/folders/1VLbE3u0gC3x66ClPWCUmcK75DuhTAyKx)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
