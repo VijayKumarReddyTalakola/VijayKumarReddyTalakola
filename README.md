@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vijay Kumar Reddy</h1>
 <h3 align="center">A passionate web developer from India.</h3>
 
-- 🔭 I’m currently working on **Native Movie App**
+- 🔭 I’m currently working on **Building Threads Clone using React Native**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **App Development**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://talakolavijay.vercel.app)
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **talakolavijaykumar@gmail.com**
 
