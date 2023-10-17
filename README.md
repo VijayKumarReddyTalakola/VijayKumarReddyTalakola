@@ -23,7 +23,7 @@
 <a href="https://instagram.com/vijay_talakola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vijay_talakola" height="30" width="40" /></a>
 <a href="https://hashnode.com/@talakolavijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@talakolavijay" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/talakola_vijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="talakola_vijay" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@vijaykumarredd38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vijaykumarredd38" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@talakola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vijaykumarredd38" height="30" width="40" /></a>
 <a href="https://discord.gg/847116048816930826" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="847116048816930826" height="30" width="40" /></a>
 </p>
 
