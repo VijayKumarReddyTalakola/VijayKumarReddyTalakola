@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/talakolavijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="talakolavijay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/talakola vijay kumar reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talakola vijay kumar reddy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/talakola-vijay-kumar-reddy-1b5028231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talakola vijay kumar reddy" height="30" width="40" /></a>
 <a href="https://fb.com/vijay kumar reddy talakola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vijay kumar reddy talakola" height="30" width="40" /></a>
 <a href="https://instagram.com/vijay_talakola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vijay_talakola" height="30" width="40" /></a>
 <a href="https://hashnode.com/@talakolavijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@talakolavijay" height="30" width="40" /></a>
